@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a5a856bd-ec7e-4b5e-91ed-5865908b238a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="bai4" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0000000005037872" />
+      <entry key="S5" value="1.0003922313552358" />
+      <entry key="S10" value="1.0414095300367912" />
+      <entry key="S30" value="2.1500354773992933" />
+      <entry key="S60" value="4.4724128425229015" />
+      <entry key="M2" value="9.53931213384143" />
+      <entry key="M5" value="23.838382663496855" />
+      <entry key="M10" value="40.98258580193562" />
+      <entry key="M15" value="51.43699387663664" />
+      <entry key="M30" value="66.33154576870766" />
+      <entry key="H1" value="76.12782676864285" />
+      <entry key="H2" value="81.77542670418006" />
+      <entry key="H4" value="84.81158757182953" />
+      <entry key="D1" value="87.45766571219637" />
+      <entry key="W1" value="87.92225112521848" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.8026639526445032E-26" />
+      <entry key="MS500" value="7.269945455028578E-6" />
+      <entry key="S2" value="0.07195786952891825" />
+      <entry key="S5" value="0.5164590190228634" />
+      <entry key="S10" value="1.0482667094591802" />
+      <entry key="S30" value="2.8476182457896204" />
+      <entry key="S60" value="6.454219892123756" />
+      <entry key="M2" value="15.078687983182482" />
+      <entry key="M5" value="39.18010290262634" />
+      <entry key="M10" value="64.75716735776852" />
+      <entry key="M15" value="79.17674158834308" />
+      <entry key="M30" value="98.77828541954456" />
+      <entry key="H1" value="111.23889523210049" />
+      <entry key="H2" value="118.30207474034087" />
+      <entry key="H4" value="122.06758878163433" />
+      <entry key="D1" value="125.33264025603339" />
+      <entry key="W1" value="125.90436511535857" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.7845840978967508" />
+      <entry key="MS500" value="0.9526399176397937" />
+      <entry key="S2" value="1.039608733159882" />
+      <entry key="S5" value="1.448055253857192" />
+      <entry key="S10" value="2.020142741407432" />
+      <entry key="S30" value="4.930127624778301" />
+      <entry key="S60" value="10.83904054470204" />
+      <entry key="M2" value="24.498093420633698" />
+      <entry key="M5" value="62.868216703009246" />
+      <entry key="M10" value="105.60392519230501" />
+      <entry key="M15" value="130.49941730123277" />
+      <entry key="M30" value="165.03617193840338" />
+      <entry key="H1" value="187.32456970717868" />
+      <entry key="H2" value="200.05490581704092" />
+      <entry key="H4" value="206.86747206310164" />
+      <entry key="D1" value="212.78829638375888" />
+      <entry key="W1" value="213.8263276827878" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3I4IGmUJWpupf8CJ3w0AEbMMXHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build bai4.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Spring Boot.Bai4Application.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="bai4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="bai4" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="bai4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Bai4Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="bai4.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.bai4.Bai4Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="bai4" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5a856bd-ec7e-4b5e-91ed-5865908b238a" name="Changes" comment="" />
+      <created>1787017321071</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787017321071</updated>
+      <workItem from="1787017322655" duration="2060000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
